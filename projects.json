@@ -2,6 +2,7 @@
   {
     "id": 1,
     "image": "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/mywebsite-main.png",
+    "moreImages": [],
     "category": "Front-end Development",
     "title": "My Website",
     "description": "My wesbsite to showcase my portfolio created fully with ReactJS",
@@ -14,6 +15,7 @@
   {
     "id": 2,
     "image": "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/spiritualm-main.png",
+    "moreImages": [],
     "category": "Front-end & Back-end Development",
     "title": "Spiritual Maturity",
     "description": "An online devotional web app made with Laravel & React (Typescript)",
@@ -26,6 +28,7 @@
   {
     "id": 3,
     "image": "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/geldia-main.png",
+    "moreImages": [],
     "category": "Front-end & Back-end Development",
     "title": "Geldia: Cash Flow Tracker",
     "description": "An income-expenses tracker to monitor the cash-in and out flow made with Python (Django) & React (TypeScript)",
@@ -39,6 +42,14 @@
   {
     "id": 4,
     "image": "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary-main.png",
+    "moreImages": [
+      "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary/diary-1.png",
+      "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary/diary-2.png",
+      "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary/diary-3.png",
+      "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary/diary-4.png",
+      "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary/diary-5.png",
+      "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary/diary-6.png"
+    ],
     "category": "Front-end & Back-end Development",
     "title": "Diary",
     "description": "An online diary made with FilamentPHP v4",
@@ -49,6 +60,7 @@
   {
     "id": 5,
     "image": "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/mywebsite-main.png",
+    "moreImages": [],
     "category": "Front-end & Back-end Development",
     "title": "Pastag-Healthcare",
     "description": "A health tracker, that tracks blood pressure and weight made with Python (Django) & React (TypeScript)",
