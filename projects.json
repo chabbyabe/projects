@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "image": "mywebsiteImg",
+    "category": "Front-end Development",
+    "title": "My Website",
+    "description": "My wesbsite to showcase my portfolio created fully with ReactJS",
+    "github": [
+      { "label": "Web", "link": "https://github.com/chabbyabe/mywebsite" }
+    ],
+    "link": "https://abegailisidro.nl",
+    "status": "Completed"
+  },
+  {
+    "id": 2,
+    "image": "spiritualmImg",
+    "category": "Front-end & Back-end Development",
+    "title": "Spiritual Maturity",
+    "description": "An online devotional web app made with Laravel & React (Typescript)",
+    "github": [
+      { "label": "Web", "link": "https://github.com/chabbyabe/spiritualmweb" }
+    ],
+    "link": "https://spiritual.abegailisidro.nl",
+    "status": "In-progress"
+  },
+  {
+    "id": 3,
+    "image": "mywebsiteImg",
+    "category": "Front-end & Back-end Development",
+    "title": "Geldia: Cash Flow Tracker",
+    "description": "An income-expenses tracker to monitor the cash-in and out flow made with Python (Django) & React (TypeScript)",
+    "github": [
+      { "label": "Web", "link": "https://github.com/chabbyabe/geldia-web" },
+      { "label": "API", "link": "https://github.com/chabbyabe/geldia-api" }
+    ],
+    "link": "https://geldia.abegailisidro.nl",
+    "status": "In-progress"
+  },
+  {
+    "id": 4,
+    "image": "diary",
+    "category": "Front-end & Back-end Development",
+    "title": "Diary",
+    "description": "An online diary made with FilamentPHP v4",
+    "github": [],
+    "link": "https://diary.abegailisidro.nl/",
+    "status": "Completed"
+  },
+  {
+    "id": 5,
+    "image": "mywebsiteImg",
+    "category": "Front-end & Back-end Development",
+    "title": "Pastag-Healthcare",
+    "description": "A health tracker, that tracks blood pressure and weight made with Python (Django) & React (TypeScript)",
+    "github": [
+      { "label": "Web", "link": "https://github.com/aellivon/pastag-healthcare" }
+    ],
+    "link": "#",
+    "status": "Completed"
+  }
+]
