@@ -51,8 +51,8 @@
       "https://raw.githubusercontent.com/chabbyabe/projects/refs/heads/main/assets/images/diary/diary-6.png"
     ],
     "category": "Front-end & Back-end Development",
-    "title": "Diary",
-    "description": "An online diary made with FilamentPHP v4",
+    "title": "Diary & Blog System",
+    "description": "An online diary and blog system and made with Laravel 12 and FilamentPHP v4",
     "github": [],
     "link": "https://diary.abegailisidro.nl/",
     "status": "Completed"
